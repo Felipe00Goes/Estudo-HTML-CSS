@@ -55,3 +55,52 @@ a {
     transform: scale(1.1);
     opacity: 0.5;
 }
+
+body{
+    background-image: url(photo.png);
+    display: block;
+    text-align: left;
+
+}
+
+div {
+    display: block;
+    margin: 150px 0px 0px 150px;
+    background-color: rgb(34,40,42);
+    height: 184px;
+    width: 627px;
+    text-align: center;
+    box-shadow: 5px 5px black;
+
+}
+
+.nome1 {
+    color: #f25a70;
+    font-size: 50px;
+    display: inline-block;
+    margin-top: 32px;
+    margin-bottom: 18px;
+
+}
+
+.nome2 {
+    color: aliceblue;
+    font-size: 35px;
+}
+
+#bottom-low {
+display: block;
+margin: 50px 0px 0px 150px;
+text-align: left;
+}
+
+
+.bottom {
+    display:inline-block;
+    background-color: brown;
+    padding: 0 20px;
+    margin: 0px 80px;
+    box-shadow: 5px 5px black;
+    height: 40px;
+    line-height: 40px;
+}
