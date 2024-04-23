@@ -1,5 +1,15 @@
 * {
     padding: 0;
     margin: 0;
-    
+    text-decoration: none;
+}
+
+body{
+    font-family: sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+bottom {
+    border: none;
 }

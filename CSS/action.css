@@ -1,0 +1,15 @@
+.action{
+    display: inline-flex;
+    align-items: center;
+    color: inherit;
+    font-weight: 200;
+    margin-right: 30px;
+}
+
+.action:before {
+    content: "";
+    background-color: rgb(227, 178, 178);
+    height: 10px;
+    width: 10px;
+    margin-right: 8px;
+}

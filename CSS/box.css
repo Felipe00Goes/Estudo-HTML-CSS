@@ -1,0 +1,7 @@
+.box{
+        display:inline-block;
+        background-color: rgb(34,40,42);
+        text-align: center;
+        box-shadow: 5px 5px black;
+        padding: 32px 58px;
+}
